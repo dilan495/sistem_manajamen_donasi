@@ -80,11 +80,4 @@ Contoh Fitur di Dashboard
 - Grafik donasi per kampanye (Line/Bar Chart)
 - Riwayat donasi terbaru
 - Notifikasi verifikasi donasi masuk
-
-Teknologi Pendukung
-
-- Laravel 12
-- Filament Admin Panel
-- Tailwind CSS (jika ada tampilan frontend)
-- PHP 8.x
-- MySQL / MariaDB
+  
